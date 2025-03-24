@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "GitHub Dark Default",
+    "python.createEnvironment.trigger": "off",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "right",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    }
+}
